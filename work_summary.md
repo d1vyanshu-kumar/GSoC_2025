@@ -53,9 +53,9 @@ This section outlines the key accomplishments in making MIT App Inventor's inter
 Transformed the Project Explorer into a fully responsive interface by integrating dropdown menu buttons, tab bars, and mobile-friendly navigation elements. Users can now efficiently manage their projects on small screens without UI clutter.
 
 <div align="center">
-  <img height="300" src="./images/p1.png" alt="Project Explorer - Main View"> 
-  <img height="300" src="./images/p2.png" alt="Project Explorer - Menu View">  
-  <img height="300" src="./images/p3.png" alt="Project Explorer - Search View">
+  <img height="300" src="./Images/P1.png" alt="Project Explorer - Main View"> 
+  <img height="300" src="./Images/p2.png" alt="Project Explorer - Menu View">  
+  <img height="300" src="./Images/p3.png" alt="Project Explorer - Search View">
 </div>
 
 ###  Designer Interface
@@ -67,8 +67,8 @@ Redesigned the layout with an intuitive structure featuring:
 This configuration maximizes screen real estate while maintaining touch-friendly interactions on mobile devices.
 
 <div align="center">
-  <img height="300" src="./images/d1.png" alt="Designer Interface - Component View"> 
-  <img height="300" src="./images/d2.png" alt="Designer Interface - Properties Panel">  
+  <img height="300" src="./Images/d1.png" alt="Designer Interface - Component View"> 
+  <img height="300" src="./Images/d2.png" alt="Designer Interface - Properties Panel">  
 </div>
 
 ###  Blockly Editor
@@ -81,9 +81,9 @@ Enhanced the visual programming workspace with comprehensive mobile optimization
 These improvements make visual programming feel natural and efficient on mobile devices.
 
 <div align="center">
-  <img height="300" src="./images/b1.png" alt="Blockly Editor - Block Workspace"> 
-  <img height="300" src="./images/b2.png" alt="Blockly Editor - Block Categories">
-  <img height="300" src="./images/b3.png" alt="Blockly Editor - Touch Interactions">
+  <img height="300" src="./Images/b1.png" alt="Blockly Editor - Block Workspace"> 
+  <img height="300" src="./Images/b2.png" alt="Blockly Editor - Block Categories">
+  <img height="300" src="./Images/b3.png" alt="Blockly Editor - Touch Interactions">
 </div>
 
 ---
